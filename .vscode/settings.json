@@ -1,0 +1,6 @@
+{
+    "editor.insertSpaces": false, // Use tabs instead of spaces
+    "editor.tabSize": 8, // This is only for display, Prettier will ignore it if you use tabs
+    "editor.formatOnSave": true, // Make sure format on save is enabled
+    "editor.defaultFormatter": "esbenp.prettier-vscode" // Ensure Prettier is used for formatting
+}
